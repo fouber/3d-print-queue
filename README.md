@@ -29,6 +29,7 @@
 |18|shijie|-|✔|![](assets/wawa.png)|
 |19|linglq|http://tf3dm.com/3d-model/stormtrooper-47085.html|✔|![](assets/stormtrooper.png)|
 |20|zhanggy|-|✔|![](assets/Head.png)|
+|21|zhanggy|http://www.thingiverse.com/thing:384955|✔|![](assets/CoC.png)|
 
 ## 待打印任务队列
 
