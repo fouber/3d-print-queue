@@ -9,7 +9,9 @@
 
 |序号|朋友|模型地址|状态|
 |----|----|--------|----|
-|1|lijc|-|-|
+|1|lijc|-|◷|
+|2|qianrf|http://www.thingiverse.com/thing:12034|◷|
+|3|sapjax|http://www.thingiverse.com/thing:347673|◷|
 
 ## 已完成任务队列
 
