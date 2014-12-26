@@ -2,14 +2,15 @@
 
 > 有一台3D打印机，任性一把，打一些玩具送给身边或者远方的朋友。这里列出打印计划，不要插队哦！
 
-好朋友可以去这里挑选模型：http://www.thingiverse.com/ ，免费打印，就不要让我建模找模型啦，很辛苦的！
-原则上打印时间不要超过3小时，而且最好不要是多个零件拼装的，好辛苦的！
+好朋友可以去这里挑选模型：http://www.thingiverse.com/ ，免费打印，就 **不要让我建模找模型啦** ，很辛苦的！
+原则上打印时间不要超过3小时，而且最好 **不要是多个零件拼装的** ，好麻烦的！
+
+
 
 ## 待打印任务队列
 
 |序号|朋友|模型地址|状态|
 |----|----|--------|----|
-|1|lijc|-|◷|
 |2|qianrf|http://www.thingiverse.com/thing:12034|◷|
 |3|sapjax|http://www.thingiverse.com/thing:347673|◷|
 
@@ -38,3 +39,4 @@
 |19|linglq|http://tf3dm.com/3d-model/stormtrooper-47085.html|✔|![](assets/stormtrooper.png)|
 |20|zhanggy|-|✔|![](assets/Head.png)|
 |21|zhanggy|http://www.thingiverse.com/thing:384955|✔|![](assets/CoC.png)|
+|22|lijc|-|✔|![](assets/Dinosaur.png)|
