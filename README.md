@@ -13,7 +13,6 @@
 |----|----|--------|----|
 |2|qianrf|http://www.thingiverse.com/thing:12034|◷|
 |3|sapjax|http://www.thingiverse.com/thing:347673|◷|
-|4|yangmin|http://www.thingiverse.com/thing:218026|◷|
 
 ## 已完成任务队列
 
@@ -41,3 +40,4 @@
 |20|zhanggy|-|✔|![](assets/Head.png)|
 |21|zhanggy|http://www.thingiverse.com/thing:384955|✔|![](assets/CoC.png)|
 |22|lijc|-|✔|![](assets/Dinosaur.png)|
+|23|yangmin|http://www.thingiverse.com/thing:218026|✔|![](assets/Dragon.png)|
