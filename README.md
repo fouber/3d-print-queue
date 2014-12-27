@@ -11,8 +11,9 @@
 
 |序号|朋友|模型地址|状态|
 |----|----|--------|----|
+|1|sapjax|http://www.thingiverse.com/thing:347673|◷|
 |2|qianrf|http://www.thingiverse.com/thing:12034|◷|
-|3|sapjax|http://www.thingiverse.com/thing:347673|◷|
+|3|kexk|http://www.thingiverse.com/thing:513324|◷|
 
 ## 已完成任务队列
 
