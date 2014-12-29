@@ -9,10 +9,10 @@
 
 ## 待打印任务队列
 
-|序号|朋友|模型地址|状态|
-|----|----|--------|----|
-|2|qianrf|http://www.thingiverse.com/thing:12034|◷|
-|3|kexk|http://www.thingiverse.com/thing:513324|◷|
+|朋友|模型地址|状态|
+|----|--------|----|
+|qianrf|http://www.thingiverse.com/thing:12034|◷|
+|kexk|http://www.thingiverse.com/thing:513324|◷|
 
 ## 已完成任务队列
 
