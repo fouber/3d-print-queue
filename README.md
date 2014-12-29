@@ -11,7 +11,6 @@
 
 |序号|朋友|模型地址|状态|
 |----|----|--------|----|
-|1|sapjax|http://www.thingiverse.com/thing:347673|◷|
 |2|qianrf|http://www.thingiverse.com/thing:12034|◷|
 |3|kexk|http://www.thingiverse.com/thing:513324|◷|
 
@@ -42,3 +41,4 @@
 |21|zhanggy|http://www.thingiverse.com/thing:384955|✔|![](assets/CoC.png)|
 |22|lijc|-|✔|![](assets/Dinosaur.png)|
 |23|yangmin|http://www.thingiverse.com/thing:218026|✔|![](assets/Dragon.png)|
+|24|sapjax|http://www.thingiverse.com/thing:347673|✔|![](assets/South-Park.png)|
