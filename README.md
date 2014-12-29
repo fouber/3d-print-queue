@@ -11,8 +11,8 @@
 
 |朋友|模型地址|状态|
 |----|--------|----|
-|qianrf|http://www.thingiverse.com/thing:12034|◷|
 |kexk|http://www.thingiverse.com/thing:513324|◷|
+|supersha|http://www.thingiverse.com/thing:403110|◷|
 
 ## 已完成任务队列
 
@@ -42,3 +42,4 @@
 |22|lijc|-|✔|![](assets/Dinosaur.png)|
 |23|yangmin|http://www.thingiverse.com/thing:218026|✔|![](assets/Dragon.png)|
 |24|sapjax|http://www.thingiverse.com/thing:347673|✔|![](assets/South-Park.png)|
+|25|qianrf|http://www.thingiverse.com/thing:12034|✔|![](assets/Snow.png)|
