@@ -12,6 +12,7 @@
 |朋友|模型地址|状态|
 |----|------|---|
 |supersha|http://www.thingiverse.com/thing:403110|◷|
+|Mr.Q|http://www.thingiverse.com/thing:403110|◷|
 
 ## 已完成任务队列
 
